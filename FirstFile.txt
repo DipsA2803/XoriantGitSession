@@ -4,7 +4,7 @@ change 3
 Hello Team,
 
 
-
+This is branch B second conflict
 Good Evening!!!
 
 This is first file
