@@ -3,8 +3,8 @@ change 2
 change 3
 Hello Team,
 
-
-
+this are changes from branch B
+second conflict attempt
 Good Evening!!!
 
 This is first file
